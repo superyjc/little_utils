@@ -1,0 +1,573 @@
+{
+    "status": 200,
+    "message": "ok",
+    "data": {
+        "content": {
+            "data": [
+                {
+                    "amount": 0,
+                    "bookAndChapterName": "小学生活语文·培智教育·一年级上",
+                    "cAuthorAvatar": "https://store-tg1.cvte.com/encloud-162200073543607a0bfa3",
+                    "cAuthorId": "ikrgzrhrqizllplzmmjhnhjopq58v811",
+                    "cAuthorInfluenceScore": 0,
+                    "cAuthorNickName": "156****0090",
+                    "chapterId": "c595f2e628f447748f7d30d4f0ec69ec",
+                    "chapterName": "23任务任务付费",
+                    "cwName": "师恩难忘",
+                    "description": "46466464664646646464",
+                    "downloadCount": 122,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 1,
+                    "officialCw": false,
+                    "onlineTime": "2022-07-25T16:10:35",
+                    "pageSize": 21,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cos-private.seewo.com/test_easinote/encloud-16587363769720bd534bb?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D8c308756dbd8f44220c91a54c02202d905cfdf67&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-1658736369554b9eb720b?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dac88a95f53f137ca9300e25f845f2c789504aaa7&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-16587363852663dca8fbb?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Df34fd28153a2690b266692894f315a99b6edd9e6&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-16587363775737b065bf8?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dd34b1b5a1db0889974cb6d3bc56240d6ea407a7f&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-165873638089396c90822?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dda46782b88510fa775932d80340050b4d60b3dd2&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-165873637185905567237?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dfabc076b70bd1cbe419803b40996dc55a51c1843&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-1658736378540a0e5e4cc?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dc213bcb9342584c0fca3473a763a13d4228ca457&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-1658736378027bc17f908?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D7f2527ec0c23cc304e1d974ce0ea3a12216504cd&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-1658736382282dbd0e4b9?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Ddcc695418d59d54fa263b0791eb75868ec327909&imageView2/0/w/240/h/148",
+                        "https://cos-private.seewo.com/test_easinote/encloud-16587363759071cc5d94e?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dc5e49b593db5987fb3c67576c4667378ac53c91b&imageView2/0/w/240/h/148"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cos-private.seewo.com/test_easinote/encloud-16587363769720bd534bb?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1661935010%3B1661947200%26q-key-time%3D1661935010%3B1661947200%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D8c308756dbd8f44220c91a54c02202d905cfdf67&imageView2/0/w/240/h/148",
+                    "uid": "95d7dde25d843bdcb7187b4339e1a98d",
+                    "uids": [
+                        "95d7dde25d843bdcb7187b4339e1a98d"
+                    ]
+                },
+                {
+                    "amount": 0,
+                    "bookAndChapterName": "心理健康教育·人际交往",
+                    "cAuthorAvatar": "https://store-tg1.cvte.com/easinote5_public/d2ed11c9b90a44c19382bb9bbaa3bf49",
+                    "cAuthorId": "ipkgxkogtqysuvutyxqzxhpinn237r61",
+                    "cAuthorInfluenceScore": 219,
+                    "cAuthorNickName": "occult",
+                    "chapterId": "954d73112c6442a9804ead43e3473b75",
+                    "chapterName": "人际交往",
+                    "cwName": "师恩难忘 今天吃",
+                    "description": "",
+                    "downloadCount": 114,
+                    "isThemeBook": true,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 11,
+                    "officialCw": false,
+                    "onlineTime": "2021-11-04T10:52:52",
+                    "pageSize": 5,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138854481090f1fed6?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=QbRQW%2FUX8siTKU2F%2Bo5aWPM%2BBD4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138854371159d1753c?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=%2FLdw4nYJTV6yysr8%2FkrgcHg6Mb4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138854206119cc6478?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=WPc%2FnMedvi2wTub7z6Nx3zfthN4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641388545379e316fa7b?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=VBUYWm7eYUhxjb8cL4eWw76CeoY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138854433295b5a5f7?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=srWWoXY2M1FhrQq0ZZTpBSDe1%2Bo%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "4d2d1c149a6b49df906fe6055c6d7fb0",
+                        "a1b7efd8ba5a41289dab6ca820a4e029",
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138854481090f1fed6?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=QbRQW%2FUX8siTKU2F%2Bo5aWPM%2BBD4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "1ea3edd66930488988971dd5e407bb91",
+                    "uids": [
+                        "1ea3edd66930488988971dd5e407bb91"
+                    ]
+                },
+                {
+                    "amount": 2,
+                    "bookAndChapterName": "小学语文·普通教材·四年级上册",
+                    "cAuthorAvatar": "https://cos-public.seewo.com/EasiNoteMobile/bc9f9f1ef03a404d9c8d989acd76679e",
+                    "cAuthorId": "rvqimnnxvowsygyuhxswsyuxlr236o21",
+                    "cAuthorInfluenceScore": 60,
+                    "cAuthorNickName": "十三个字符满满的一个不漏哈",
+                    "chapterId": "c5627b1879af11e8a10c1c1b0d1c49aa",
+                    "chapterName": "师恩难忘",
+                    "cwName": "引用官方资源包",
+                    "description": "官方资源包",
+                    "downloadCount": 123,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 16,
+                    "officialCw": false,
+                    "onlineTime": "2022-07-07T14:59:04",
+                    "pageSize": 3,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-165717706190221f56233?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=NbEzAcID0EZ5ld3aGGGFcobPpHU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1657177065264bc3ccb0b?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=acCNLiV3AJOhYrm2hYJFGGEKN5c%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1657177063611cdbd31b7?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=LHOl%2FUrNJ6L5HlGFtX%2F%2FIAkE9tk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-165717706190221f56233?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=NbEzAcID0EZ5ld3aGGGFcobPpHU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "70b2b74053af3099ac0d2bf8b132ccfd",
+                    "uids": [
+                        "70b2b74053af3099ac0d2bf8b132ccfd"
+                    ]
+                },
+                {
+                    "amount": 65,
+                    "bookAndChapterName": "小学语文·普通教材·四年级上册",
+                    "cAuthorAvatar": "http://id.seewo.com/modules/pc/theme/images/user_a419cc7.jpg",
+                    "cAuthorId": "aeff2468e41342d497b72bde28ecf478",
+                    "cAuthorInfluenceScore": 0,
+                    "cAuthorNickName": "hac138",
+                    "chapterId": "c5627b1879af11e8a10c1c1b0d1c49aa",
+                    "chapterName": "师恩难忘",
+                    "cwName": "未命名课件 20220421-1151",
+                    "description": "",
+                    "downloadCount": 183,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 4,
+                    "medalNum": 0,
+                    "officialCw": false,
+                    "onlineTime": "2022-04-21T12:10:22",
+                    "pageSize": 11,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-165051396135322341ba4?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=OfOs5bdUnf5L62IwP2lYRUMA4w8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139556232465bb23?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=M%2BNHSUeIalk99es%2FAQvEa93%2FxJg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139561562465bb23?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=bcg4d6AJsh2krD6i0RGGLjZvUI8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1650513957863b5e49a31?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=4oy0tqqoJnIp6Bupg0vDbkNnRFk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139549572465bb23?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=tTGAH%2F18zjwGMRI0rNE3jujYFRI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139589149f7fbbef?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=8MGTpkFxo3pKlsjWapkTnI0YN%2BA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139573512465bb23?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=GW0sHTnEisZyR%2FuRxftQF6eE4mQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1650513958406f7d26f8b?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=5GuXGNMFkHTb80%2B%2FzpKEhMnP7rY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139567452465bb23?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=12mN4CJKf2Z8yehBgwqv7%2FcpLY4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16505139600142465bb23?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=FhIVAd1FE0rrZIcH2ngV4LvuOMU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-165051396135322341ba4?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=OfOs5bdUnf5L62IwP2lYRUMA4w8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "9eac16b3762f32cfad4ec425b947c66d",
+                    "uids": [
+                        "9eac16b3762f32cfad4ec425b947c66d"
+                    ]
+                },
+                {
+                    "amount": 3,
+                    "bookAndChapterName": "小学科学·视障教育·一年级上册",
+                    "cAuthorAvatar": "https://edu.seewo.com/res/head/1/default.png",
+                    "cAuthorId": "9c8a3c91a49d4288951df50291fd760a",
+                    "cAuthorInfluenceScore": 0,
+                    "cAuthorNickName": "Aurora",
+                    "chapterId": "49c130399a274e049b7aa79ad6d159b0",
+                    "chapterName": "哈哈哈",
+                    "cwName": "师恩难忘 今天吃什么几点...",
+                    "description": "DF A DFSADFASF ADFSF",
+                    "downloadCount": 117,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 6,
+                    "officialCw": false,
+                    "onlineTime": "2021-11-04T10:52:52",
+                    "pageSize": 6,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138298511552a2bc44?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=TVvB74pkAcjgCia37OZodv1rNfk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138298642459d1753c?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=S%2BlhbdISFayNe5Hex9oE9Tdc1TM%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641382987670a0d189f2?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=cargDB0gkJnnO2WOVIKYQOJflpU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138297992419cc6478?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=DW4%2BJ%2BuBkrxxoK28frBbJaKkWXg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641382987052e316fa7b?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=8TesekUzkmb%2BTKc2ejrihJHQLNQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138297040695b5a5f7?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=N9aSWlowX%2F20f29MB1EjqwVLtRI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc",
+                        "885930f230d311e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138298511552a2bc44?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=TVvB74pkAcjgCia37OZodv1rNfk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "b143f029db913c509536b8e0fd300fd3",
+                    "uids": [
+                        "b143f029db913c509536b8e0fd300fd3"
+                    ]
+                },
+                {
+                    "amount": 150,
+                    "bookAndChapterName": "小学语文·普通教材·四年级上册",
+                    "cAuthorAvatar": "https://cos-public.seewo.com/EasiNoteMobile/bc9f9f1ef03a404d9c8d989acd76679e",
+                    "cAuthorId": "rvqimnnxvowsygyuhxswsyuxlr236o21",
+                    "cAuthorInfluenceScore": 60,
+                    "cAuthorNickName": "十三个字符满满的一个不漏哈",
+                    "chapterId": "c5627b1879af11e8a10c1c1b0d1c49aa",
+                    "chapterName": "师恩难忘",
+                    "cwName": "159048a9ac6a4234a12f3adabdacefca",
+                    "description": "",
+                    "downloadCount": 268,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 7,
+                    "medalNum": 16,
+                    "officialCw": false,
+                    "onlineTime": "2022-03-03T15:10:19",
+                    "pageSize": 32,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16341184543279edd1ee3?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=bTnZmRuErJSOColRzCDL3WVqVUA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1634118455578b148ba2f?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=T43HiX8B7bpdrJUa1b6v6c%2F%2Fv98%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-163411845335625337eb2?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=I3Yu%2FQIc6GaYCxUDm9iTAaRDmGI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16341184614363c25652a?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=rIo4s3tqsEwWAX4EH0O8v6crnYQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16341184654695b4e822d?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=iipnou3o9BizT3NLCbCwQzTNXCw%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16341184524116d491a2e?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=QHdGmr8TxAi4cnMnrCl1SXdL7Kc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1634118458026861e664a?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=yVDfVeDsURHtnXX0KHTJ%2BGVxeU0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-163411846280697c9ca37?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=0XI%2BnkDeLd%2B3P4V%2B8vKkuZzjtQc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1634118452779b57bb751?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=KZIDxFsG4uP0QnOwZ76g4WkL%2Bjw%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-163411846353470e7e8e8?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=zqNAkzpUQSytQtCpzReZy4Jg6jg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16341184543279edd1ee3?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=bTnZmRuErJSOColRzCDL3WVqVUA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "e20ba75437123bc9908800afc7b57739",
+                    "uids": [
+                        "e20ba75437123bc9908800afc7b57739"
+                    ]
+                },
+                {
+                    "amount": 0,
+                    "bookAndChapterName": "小学语文·普通教材·二年级下册(2017部编）",
+                    "cAuthorAvatar": "https://store-tg1.cvte.com/easinote5_public/d2ed11c9b90a44c19382bb9bbaa3bf49",
+                    "cAuthorId": "ipkgxkogtqysuvutyxqzxhpinn237r61",
+                    "cAuthorInfluenceScore": 219,
+                    "cAuthorNickName": "occult",
+                    "chapterId": "c6923b0f79af11e8a10c1c1b0d1c49aa",
+                    "chapterName": "7 一匹出色的马",
+                    "cwName": "师恩难忘 今天吃什么几点...",
+                    "description": "",
+                    "downloadCount": 116,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 11,
+                    "officialCw": false,
+                    "onlineTime": "2021-11-04T10:52:52",
+                    "pageSize": 5,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16413813592539681e6f5?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=b0f01zhSHGmCOoumlQardFn06DI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138135504859d1753c?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=PZ4hA5aEQcQwmElK8T4FYKEnQ2E%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138135765119cc6478?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=lvOT0UDuE4JXvAXbOQc3AMdwVSk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641381356552e316fa7b?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=M4rWoy9a4Sp8dlv424Q%2BEiphJA4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164138135719295b5a5f7?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=n2U%2FBcGhSleBXRj%2FQfqrgAO1Rbc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16413813592539681e6f5?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=b0f01zhSHGmCOoumlQardFn06DI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "eeb8796c65074301a3ca2cefed3b2c41",
+                    "uids": [
+                        "eeb8796c65074301a3ca2cefed3b2c41"
+                    ]
+                },
+                {
+                    "amount": 3,
+                    "bookAndChapterName": "小学语文·普通教材·四年级上册",
+                    "cAuthorAvatar": "https://store-tg1.cvte.com/encloud-162200073543607a0bfa3",
+                    "cAuthorId": "easinote",
+                    "cAuthorInfluenceScore": 0,
+                    "cAuthorNickName": "希沃白板",
+                    "chapterId": "c5627b1879af11e8a10c1c1b0d1c49aa",
+                    "chapterName": "师恩难忘",
+                    "cwName": "未命名课件 20210628-0950",
+                    "description": "",
+                    "downloadCount": 126,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 0,
+                    "officialCw": true,
+                    "onlineTime": "2022-06-30T14:46:44",
+                    "pageSize": 2,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": true,
+                    "resourcePackUid": "c44c46eab03a4d0c8f47115210fab00a",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-160872010305407646b84?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=nJ2LpZdkN34nG1I4AvOaampOqyc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16251901655354e0822a6?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=vYAPUGalO8ZmcCS43c4b2uwTcqA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc",
+                        "39e334504fd248259d5dc381772b7640"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-160872010305407646b84?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=nJ2LpZdkN34nG1I4AvOaampOqyc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "e0494c0a8a954f70b1f09dffd540facc",
+                    "uids": [
+                        "e0494c0a8a954f70b1f09dffd540facc"
+                    ]
+                },
+                {
+                    "amount": 0,
+                    "bookAndChapterName": "小学语文·普通教材·六年级下册",
+                    "cAuthorAvatar": "https://store-tg1.cvte.com/easinote5_public/74c53b817451426ea3b42ba4b3e7f50f",
+                    "cAuthorId": "d44496eb6b9e451dafc858da9ca6e702",
+                    "cAuthorInfluenceScore": 361,
+                    "cAuthorNickName": "枫树昵称",
+                    "chapterId": "cfb632a5bfa54e3dabc3f48af962cfa8",
+                    "chapterName": "回忆往事",
+                    "cwName": "功能测试",
+                    "description": "",
+                    "downloadCount": 120,
+                    "isThemeBook": false,
+                    "labelDescription": "",
+                    "labelIconUrl": "",
+                    "labelName": "",
+                    "labelType": -1,
+                    "likeCount": 0,
+                    "medalNum": 10,
+                    "officialCw": false,
+                    "onlineTime": "2021-04-20T14:12:27",
+                    "pageSize": 5,
+                    "pageTagFileMap": [],
+                    "pageTagMap": [],
+                    "recommendGroup": "",
+                    "recommendGroupName": "",
+                    "referencedList": [],
+                    "reportInfo": {},
+                    "resourcePack": false,
+                    "resourcePackUid": "",
+                    "showType": "",
+                    "slidePics": [
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641417022122571a3072?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=rOXLjaqgf14AyF%2FdtZnZtkCGw%2FA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641417021472307e6fc0?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=camY0umbozZ7LfEI6SA5gb0esi8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-164141702358217c575d0?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=vIzb9LajIk48ThqICAmTgDgtRqM%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-16414170225522f45185d?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=iJkpVPxLc2Qr1ieERT9NdW%2F2TVg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                        "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641417023137751e745c?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=t0BiFftyxGt516sYKP6VxZHKfOA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240"
+                    ],
+                    "tags": [
+                        "39f1fae8513911e984df00505690e1bc"
+                    ],
+                    "thumbnail": "https://cstore-private-bs-test.seewo.com/test_easinote/encloud-1641417022122571a3072?Expires=1661947200&OSSAccessKeyId=LTAI4gvNbAt0Hvya&Signature=rOXLjaqgf14AyF%2FdtZnZtkCGw%2FA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Ch_148%2Cw_240",
+                    "uid": "0bff82ffe66d4eb49b2909991d96916c",
+                    "uids": [
+                        "0bff82ffe66d4eb49b2909991d96916c"
+                    ]
+                }
+            ],
+            "pageNo": 0,
+            "pageSize": 50,
+            "total": 9,
+            "totalPage": 1
+        },
+        "interceptingFilter": {
+            "eduThemes": [
+                {
+                    "nodeCode": "bd14bb7bfea94217af4eb55a1f4ee31e",
+                    "nodeName": "心理健康教育",
+                    "nodeType": 5
+                }
+            ],
+            "generalEduCoursewareTotal": 6,
+            "specialEduBookList": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "nodeCode": "65429b0615924bf3a5ecdf0b4f23719f",
+                                                    "nodeName": "一年级上册",
+                                                    "nodeType": 4
+                                                }
+                                            ],
+                                            "nodeCode": "CodeBookVersion_1",
+                                            "nodeName": "人教版",
+                                            "nodeType": 3
+                                        }
+                                    ],
+                                    "nodeCode": "CodeCourseSubject_9",
+                                    "nodeName": "科学",
+                                    "nodeType": 2
+                                }
+                            ],
+                            "nodeCode": "CodeSchoolStage_0",
+                            "nodeName": "小学",
+                            "nodeType": 1
+                        }
+                    ],
+                    "nodeCode": "2",
+                    "nodeName": "视障教育",
+                    "nodeType": 0
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "nodeCode": "31dfc8c631ae435e9c8da7efbb747248",
+                                                    "nodeName": "一年级上",
+                                                    "nodeType": 4
+                                                }
+                                            ],
+                                            "nodeCode": "CodeBookVersion_14",
+                                            "nodeName": "北师大版",
+                                            "nodeType": 3
+                                        }
+                                    ],
+                                    "nodeCode": "dbee4745f78f46219398859f0169b3a7",
+                                    "nodeName": "生活语文",
+                                    "nodeType": 2
+                                }
+                            ],
+                            "nodeCode": "CodeSchoolStage_0",
+                            "nodeName": "小学",
+                            "nodeType": 1
+                        }
+                    ],
+                    "nodeCode": "3",
+                    "nodeName": "培智教育",
+                    "nodeType": 0
+                }
+            ],
+            "specialEduCoursewareTotal": 2,
+            "textbookList": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "nodeCode": "5a27050e79af11e8a10c1c1b0d1c49aa",
+                                            "nodeName": "四年级上册",
+                                            "nodeType": 4
+                                        }
+                                    ],
+                                    "nodeCode": "CodeBookVersion_14",
+                                    "nodeName": "北师大版",
+                                    "nodeType": 3
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "nodeCode": "a399f2ccd37543bfbd75a0088268b95e",
+                                            "nodeName": "六年级下册",
+                                            "nodeType": 4
+                                        }
+                                    ],
+                                    "nodeCode": "CodeBookVersion_18",
+                                    "nodeName": "部编版",
+                                    "nodeType": 3
+                                }
+                            ],
+                            "nodeCode": "CodeCourseSubject_0",
+                            "nodeName": "语文",
+                            "nodeType": 2
+                        }
+                    ],
+                    "nodeCode": "CodeSchoolStage_0",
+                    "nodeName": "小学",
+                    "nodeType": 1
+                }
+            ],
+            "topicEduCoursewareTotal": 1
+        }
+    },
+    "error_code": 0
+}
