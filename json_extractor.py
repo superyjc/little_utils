@@ -33,7 +33,11 @@ def get_key_values(json_str, json_keys):
         for json_obj in json_str:
 
             if isinstance(json_obj, dict):
-                key_values.append(json_obj[key])
+                # 处理数组中，有些元素少了部分字段的情况
+                try:
+                    key_values.append(json_obj[key])
+                except KeyError:
+                    continue
 
                 target_json[key] = key_values
 
@@ -80,4 +84,4 @@ if __name__ == '__main__':
     with open('apis.txt', 'r', encoding='utf-8') as f:
         json_str = f.read()
     result = analyse_json(json.loads(json_str))
-    print(result['data']['content']['data']['chapterId'])
+    print(result)
